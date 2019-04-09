@@ -1497,7 +1497,7 @@ plot_prcurve(classifier, x_test, y_test, show=2)
 
 
 
-![png](output_19_1.png)
+![png](images/output_19_1.png)
 
 
     Class: 1
@@ -1505,7 +1505,7 @@ plot_prcurve(classifier, x_test, y_test, show=2)
 
 
 
-![png](output_19_3.png)
+![png](images/output_19_3.png)
 
 
     Class: 2
@@ -1513,7 +1513,7 @@ plot_prcurve(classifier, x_test, y_test, show=2)
 
 
 
-![png](output_19_5.png)
+![png](images/output_19_5.png)
 
 
     Class: 3
@@ -1521,7 +1521,7 @@ plot_prcurve(classifier, x_test, y_test, show=2)
 
 
 
-![png](output_19_7.png)
+![png](images/output_19_7.png)
 
 
     Class: 4
@@ -1529,7 +1529,7 @@ plot_prcurve(classifier, x_test, y_test, show=2)
 
 
 
-![png](output_19_9.png)
+![png](images/output_19_9.png)
 
 
     Class: 5
@@ -1537,7 +1537,7 @@ plot_prcurve(classifier, x_test, y_test, show=2)
 
 
 
-![png](output_19_11.png)
+![png](images/output_19_11.png)
 
 
     Class: 6
@@ -1545,7 +1545,7 @@ plot_prcurve(classifier, x_test, y_test, show=2)
 
 
 
-![png](output_19_13.png)
+![png](images/output_19_13.png)
 
 
 Below is the combined curve of the entire multiclass distribution.
@@ -1556,7 +1556,7 @@ plot_prcurve(classifier, x_test, y_test)
 ```
 
 
-![png](output_21_0.png)
+![png](images/output_21_0.png)
 
 
 ## Neural Network
