@@ -1,4 +1,10 @@
 
+### SECTION C: IMAGE PROCESSING
+
+
+All the codes used to produce the below outputs are present at [Image Processing.ipynb](https://github.com/NalinLuthra/Celestini2019/blob/master/Section-C/Image%20Processing.ipynb)
+
+
 
 ```python
 import cv2
