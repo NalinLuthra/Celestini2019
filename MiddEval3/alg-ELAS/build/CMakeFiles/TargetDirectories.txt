@@ -1,3 +1,0 @@
-/home/rohit/Desktop/MiddEval3/alg-ELAS/build/CMakeFiles/rebuild_cache.dir
-/home/rohit/Desktop/MiddEval3/alg-ELAS/build/CMakeFiles/elas.dir
-/home/rohit/Desktop/MiddEval3/alg-ELAS/build/CMakeFiles/edit_cache.dir
