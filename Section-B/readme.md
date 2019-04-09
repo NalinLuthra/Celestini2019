@@ -1,4 +1,9 @@
 
+### SECTION B: MACHINE LEARNING
+
+
+All the codes used to produce the below outputs are present at [preprocessing.ipynb](https://github.com/NalinLuthra/Celestini2019/blob/master/Section-B/preprocessing.ipynb),  [SVM.ipynb](https://github.com/NalinLuthra/Celestini2019/blob/master/Section-B/SVM.ipynb), [NN and SVM.ipynb](https://github.com/NalinLuthra/Celestini2019/blob/master/Section-B/NN%20and%20SVM.ipynb).
+
 
 ```python
 import numpy as np
